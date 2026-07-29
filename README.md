@@ -109,6 +109,6 @@ Este repositório faz parte do meu portfólio de **Análise de Dados**. Durante 
 
 Se tiver dúvidas, sugestões ou quiser bater um papo sobre este projeto:
 
-* **LinkedIn:** [Luana Keterlly](https://www.linkedin.com/in/luana-keterlly-3b4b1a1aa/)
-* **E-mail:** [seu-email@dominio.com](mailto:seu-email@dominio.com)
+* **LinkedIn:** Luana Keterlly  - (https://www.linkedin.com/in/luana-keterlly-3b4b1a1aa/)
+* **E-mail:** (luanaketerllyazevedo@gmail.com)
 
