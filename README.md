@@ -53,8 +53,6 @@ A análise inicial inclui:
 * Verificação de possíveis inconsistências
 * Primeiras transformações nos dados
 
-Novas análises e visualizações serão adicionadas conforme o desenvolvimento do projeto.
-
 ---
 
 ## 🛠 Ferramentas Utilizadas
@@ -63,42 +61,54 @@ Novas análises e visualizações serão adicionadas conforme o desenvolvimento 
 * Pandas
 * Google Colab
 * Jupyter Notebook
+* Power Bi
 
 ---
 
-## 📂 Estrutura do Repositório
+## 📂 Estrutura do Repositório---
 
 ```
 sales-data-analysis
 │
-├── data
+├── data/
 │   ├── dataset_original.csv
 │   └── dataset_tratado.csv
 │
-├── notebook
+├── docs/
+│   └── descricao_dataset.pdf
+│
+├── notebook/
 │   └── analise_vendas.ipynb
 │
-├── docs
-│   └── descricao_dataset.pdf
+├── powerbi/
+│   └── dashboard_vendas.pbix
 │
 └── README.md
 ```
+---
+
+## ✅ Status do Projeto
+
+**Projeto Finalizado!** 
+
+Todas as etapas propostas foram concluídas com sucesso, incluindo:
+* Análises exploratórias aprofundadas do conjunto de dados
+* Criação de visualizações de dados para facilitar a interpretação
+* Identificação de insights relevantes de negócio
+* Construção de dashboard interativo para consulta de resultados
 
 ---
 
-## 🚀 Próximos Passos
+## 🎯 Objetivo e Aprendizados
 
-Este projeto continuará evoluindo com novas etapas, como:
-
-* Análises exploratórias mais aprofundadas
-* Criação de visualizações de dados
-* Identificação de insights de negócio
-* Possível desenvolvimento de dashboards
+Este repositório faz parte do meu portfólio de **Análise de Dados**. Durante a execução deste projeto, consolidei conhecimentos em tratamento de dados, análise estatística exploratória e storytelling com dados.
 
 ---
 
-## 📚 Objetivo de Aprendizado
+## 📬 Contato
 
-Este repositório faz parte do meu portfólio e do meu processo de aprendizado em **Análise de Dados**.
-O projeto será continuamente aprimorado conforme avanço nos estudos e na mentoria.
+Se tiver dúvidas, sugestões ou quiser bater um papo sobre este projeto:
+
+* **LinkedIn:** [Luana Keterlly](https://www.linkedin.com/in/luana-keterlly-3b4b1a1aa/)
+* **E-mail:** [seu-email@dominio.com](mailto:seu-email@dominio.com)
 
